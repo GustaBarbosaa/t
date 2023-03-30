@@ -1,3 +1,6 @@
+
+## Experiência Profissional:
+
 # Gustavo Barbosa da Silva
 
 ---
@@ -20,9 +23,13 @@
 
 ## FORMAÇÃO ACADÊMICA 
 
-**Instituição:** Centro Educacional SESI - 308
 
-**Grau acadêmico:** Ensino médio completo
+**Cargo** - Assitente de planejamento - PASCHOALOTTO 
+
+**Inicio** - 07/10/2021
+
+
+**Término** - Atualmente no mesmo serviço
 
 **Data de conclusão:** 31/12/2022
 
