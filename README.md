@@ -53,7 +53,7 @@
 
 ---
 
-## Habilidades
+## Habilidades:
 
 * Proativo
 * Conhecimento em Python
