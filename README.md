@@ -1,4 +1,8 @@
-## FOMAÇÃO:
+# Gustavo Barbosa da Silva
+
+---
+
+## FORMAÇÃO ACADÊMICA 
 
 **Instituição:** Centro Educacional SESI - 308
 
@@ -6,7 +10,6 @@
 
 **Data de conclusão:** 31/12/2022
 
----
 ## CURSANDO:
 
 **Instituição:** Universidade Unimar
