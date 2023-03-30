@@ -18,7 +18,7 @@
 
 ---
 
-## FORMAÇÃO ACADÊMICA 
+## FORMAÇÃO ACADÊMICA: 
 
 
 **Cargo** - Assitente de planejamento - PASCHOALOTTO 
