@@ -2,6 +2,13 @@
 
 ---
 
+## Habilidades
+
+* Proativo
+* Conhecimento em Python
+* Facilidade em aprender
+* Trabalho em equipe
+
 ## Dados Pessoais:
 
 **Nascimento:** 05/08/2004
