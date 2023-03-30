@@ -1,6 +1,3 @@
-
-## Experiência Profissional:
-
 # Gustavo Barbosa da Silva
 
 ---
