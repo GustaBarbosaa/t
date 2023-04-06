@@ -21,7 +21,7 @@
 ## FORMAÇÃO ACADÊMICA: 
 
 
-**Cargo** - Assitente de planejamento - PASCHOALOTTO 
+**Cargo** - Assistente de Planejamento - PASCHOALOTTO 
 
 **Inicio** - 07/10/2021
 
@@ -47,9 +47,8 @@
 
 **Cargo** - Assitente de planejamento - PASCHOALOTTO 
 
-**Inicio** - 07/10/2021
+**07/10/2021 até ATUALMENTE
 
-**Término** - Atualmente no mesmo serviço
 
 ---
 
